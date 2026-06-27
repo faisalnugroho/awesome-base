@@ -175,6 +175,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 
 ## Gaming
 
+- [Block Lottos](https://blocklottos.com/games) - Polygon/Base lottery games with wallet-signed tickets.
 - [Parallel](https://parallel.life) - Trading card game on Base.
 - [Blocklords](https://blocklords.com) - Strategy game on Base.
 - [Mocaverse](https://mocaverse.xyz) - Gaming ecosystem on Base.

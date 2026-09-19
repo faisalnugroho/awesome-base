@@ -48,6 +48,9 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 - [DefiLlama](https://defillama.com/chain/Base) - Base TVL and DeFi analytics.
 - [DeBank](https://debank.com) - Portfolio tracker with Base support.
 
+- [bounty-freshness](https://github.com/filip-study/bounty-freshness) - CLI that checks whether listed GitHub bounty URLs still point at OPEN issues (filters stale Opire/Algora rows).
+- [opire-open-scan](https://github.com/filip-study/opire-open-scan) - Filters Opire rewards to OPEN GitHub issues and drops farm/overcrowded rows.
+
 ## SDKs and Libraries
 
 - [Base SDK (viem)](https://viem.sh/docs/clients/chains.html#base) - Base chain config in viem.

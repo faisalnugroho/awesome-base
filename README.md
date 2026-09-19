@@ -57,6 +57,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 - [OnchainKit](https://onchainkit.xyz) - Coinbase's React components for Base apps.
 - [MiniKit](https://onchainkit.xyz/minikit) - Build Farcaster Mini Apps on Base.
 - [AgentKit](https://github.com/coinbase/agentkit) - AI agent toolkit for Base/onchain.
+- [base-usdc-tip-kit](https://github.com/filip-study/base-usdc-tip-kit) - Stdlib-only Python tipcheck CLI: read ETH + USDC on Base via free public RPCs (no API key).
 - [Account SDK](https://github.com/base/account-sdk) - Base account abstraction SDK.
 - [MUD](https://mud.dev) - Framework for onchain apps on Base.
 - [Scaffold-ETH 2](https://scaffoldeth.io) - Full-stack dApp framework, Base support.

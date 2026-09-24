@@ -119,6 +119,8 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 
 ## Analytics and Data
 
+- [GDEX](https://gdex.pro/) — Multi-chain trading terminal with wallet analytics and Base support.
+
 - [Artemis](https://www.artemis.xyz) - On-chain analytics for Base.
 - [Token Terminal](https://tokenterminal.com) - Base financial metrics.
 - [Messari](https://messari.io) - Base research and analytics.

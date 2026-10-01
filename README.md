@@ -47,6 +47,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 - [Dune Analytics](https://dune.com) - Query Base on-chain data with SQL.
 - [DefiLlama](https://defillama.com/chain/Base) - Base TVL and DeFi analytics.
 - [DeBank](https://debank.com) - Portfolio tracker with Base support.
+- [usdc-base-payment-check](https://github.com/discofabio/usdc-base-payment-check) - Single-file Python and Node.js scripts to verify and watch USDC payments on Base.
 
 ## SDKs and Libraries
 

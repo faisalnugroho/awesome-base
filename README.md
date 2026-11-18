@@ -116,6 +116,7 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 - [Frame](https://frame.sh) - Desktop wallet with Base support.
 - [Ledger](https://www.ledger.com) - Hardware wallet with Base support.
 - [Safe](https://safe.global) - Multisig wallet on Base.
+- [Ownbit](https://ownbit.io/en/base-multisig-wallet/) — Paid mobile wallet with Base MultiSig, QR offline signing, and a seven-day trial.
 
 ## Analytics and Data
 

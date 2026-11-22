@@ -80,6 +80,10 @@ Base is a secure, low-cost, developer-friendly Ethereum L2 built to bring the ne
 - [Yearn Finance](https://yearn.fi) - Yield aggregator on Base.
 - [Velodrome](https://velodrome.finance) - Sister protocol of Aerodrome (Optimism).
 
+## Launchpads
+
+- [CurveLaunch](https://bonding-launch.timworks.workers.dev) - One-click ERC-20 launchpad with a linear bonding curve and 1% creator fees.
+
 ## NFT and Creator Tools
 
 - [Zora](https://zora.co) - NFT marketplace and creator platform on Base.
